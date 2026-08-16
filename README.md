@@ -8,7 +8,7 @@ I'm an **Aerospace Engineering student** at the University of Bologna driven by 
 
 * 🚀 **Aerodynamics & Rocketry:** Modeling aerodynamic surfaces, geometry, and CFD simulations within our university rocketry team.
 * 💻 **Scientific Computing:** Building numerical solvers and automation scripts in **Python**, **MATLAB**, and **C++** for data-heavy engineering workflows.
-* 🧠 **Physics & Machine Learning:** Exploring **Physics-Informed Neural Networks (PINNs)** to augment and accelerate physical simulations.
+* 🧠 **Physics & Machine Learning:** Exploring **Physics-Informed Neural Networks (PINNs)** using **PyTorch** to augment and accelerate physical simulations.
 * 🎯 **Academic Trajectory:** Preparing for international graduate studies in **Computational Science & Engineering**, focused on advanced numerical methods.
 
 ---
@@ -25,10 +25,12 @@ I'm an **Aerospace Engineering student** at the University of Bologna driven by 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Scientific Python Stack**  
+**Scientific Computing & ML Stack**  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 ---
 
