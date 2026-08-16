@@ -1,6 +1,6 @@
 # Hi, I'm Leonardo 👋 🚀
 
-I'm an **Aerospace Engineering student** at the University of Bologna driven by a deep interest in **fluid mechanics, aerodynamics, and computational modeling**.
+I'm an **Aerospace Engineering student** at the University of Bologna driven by a deep interest in **math , fluid mechanics, aerodynamics, and computational modeling**.
 
 ---
 
