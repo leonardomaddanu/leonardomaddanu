@@ -17,7 +17,9 @@ I'm an **Aerospace Engineering student** at the University of Bologna driven by 
 
 **Simulation & CAD**  
 ![ANSYS](https://img.shields.io/badge/ANSYS-CFD-000000?style=for-the-badge&logo=ansys&logoColor=white)
+![OpenFOAM](https://img.shields.io/badge/OpenFOAM-CFD-255E9A?style=for-the-badge)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-CAD-ED1C24?style=for-the-badge&logo=solidworks&logoColor=white)
+![Onshape](https://img.shields.io/badge/Onshape-CAD-1B5299?style=for-the-badge&logo=onshape&logoColor=white)
 
 **Programming & Numerical Analysis**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
