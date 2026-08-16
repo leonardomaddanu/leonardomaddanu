@@ -13,7 +13,7 @@ I'm an **Aerospace Engineering student** at the University of Bologna driven by 
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Tools *(Always improving & learning)*
 
 **Simulation & CAD**  
 ![ANSYS](https://img.shields.io/badge/ANSYS-CFD-000000?style=for-the-badge&logo=ansys&logoColor=white)
