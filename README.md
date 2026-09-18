@@ -47,5 +47,3 @@ Outside of coursework and technical projects, I dedicate time to **weightlifting
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-maddanu-229564419/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardo.maddanu5@gmail.com)
 
-
-Author : Leonardo Maddanu
