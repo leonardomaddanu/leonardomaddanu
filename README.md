@@ -11,7 +11,7 @@ I'm an **Aerospace Engineering student** at the University of Bologna with a str
 ### 🛠️ Tech Stack & Tools
 
 **Simulation & CAD**  
-OpenFOAM · ANSYS · SolidWorks · Onshape · ParaView
+OpenFOAM · ANSYS · SolidWorks · Blender · ParaView
 
 **Programming & Numerical Analysis**  
 Python · MATLAB · C++ · Git · Linux
