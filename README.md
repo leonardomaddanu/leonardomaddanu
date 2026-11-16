@@ -16,7 +16,7 @@ OpenFOAM · ANSYS · SolidWorks · Onshape · ParaView
 **Programming & Numerical Analysis**  
 Python · MATLAB · C++ · Git · Linux
 
-**Scientific Computing & ML**  
+**Scientific Computing & ML — skills in development**  
 NumPy · SciPy · Pandas · Matplotlib · PyTorch
 
 ### 🏋️ Beyond Engineering
@@ -25,4 +25,5 @@ Outside of coursework and technical projects, I enjoy weightlifting as a way to 
 
 ### 📫 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/leonardo-maddanu-229564419/) · [Email](mailto:leonardo.maddanu5@gmail.com)
+- **Email:** leonardo.maddanu5@gmail.com
+- **LinkedIn:** [Leonardo Maddanu](https://www.linkedin.com/in/leonardo-maddanu-229564419/)
