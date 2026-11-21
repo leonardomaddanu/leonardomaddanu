@@ -1,59 +1,72 @@
 # Hi, I'm Leonardo 👋
 
-I'm an Aerospace Engineering student at the **University of Bologna** and an **Aerodynamics & CFD Specialist at Alma Rocketry**, working towards EuRoC.
+🚀 I'm a second-year **Aerospace Engineering student at the University of Bologna**, and an **Aerodynamics & CFD Specialist at Alma Rocketry**, working towards EuRoC.
 
-I explore fluid dynamics, parallel computing and scientific machine learning to build faster, physics-grounded simulation tools.
-
-<br>
-
-## Selected projects
-
-These are a few of my public projects, representing part of my ongoing work.
+🌊 I'm interested in fluid dynamics, parallel computing and scientific machine learning. I enjoy turning physical problems into code, testing the results and finding ways to make simulations faster.
 
 <br>
 
-### Fourier Neural Operator
-Learning Darcy-flow solutions and testing predictions on finer grids.
+## 🔎 Selected projects
 
-*PyTorch · SciPy · NumPy*  
-[Explore the project →](https://github.com/leonardomaddanu/fourier-neural-operator-pde)
+A small selection of my public projects — just part of what I'm building and exploring.
 
 <br>
 
-### Parallel PDE Solver
-A heat-equation solver with MPI domain decomposition and parallel performance benchmarks.
+### 🧠 Fourier Neural Operator
 
-*C++17 · MPI · CMake*  
-[Explore the project →](https://github.com/leonardomaddanu/mpi-2d-cartesian-solver)
+Learning how fluid-flow solutions change across different permeability fields. This project explores neural operators as a faster alternative to repeated numerical calculations, including predictions on finer grids.
 
-<br>
+*PyTorch · SciPy · NumPy*
 
-### Navier–Stokes PINN
-A physics-informed neural network for cavity flow, compared with published reference results.
-
-*PyTorch · Python · NumPy*  
-[Explore the project →](https://github.com/leonardomaddanu/pinn-lid-driven-cavity)
+[View project →](https://github.com/leonardomaddanu/fourier-neural-operator-pde)
 
 <br>
 
-### Microchannel Heat Transfer
-A copper–water cooling study with conservation checks and mesh-convergence analysis.
+### ⚡ Parallel PDE Solver
 
-*OpenFOAM · Python · ParaView*  
-[Explore the project →](https://github.com/leonardomaddanu/microchannel-cht)
+A parallel solver for the heat equation, built in C++. I use it to explore how a numerical problem can be shared across multiple processes while checking accuracy and performance.
+
+*C++17 · MPI · CMake*
+
+[View project →](https://github.com/leonardomaddanu/mpi-2d-cartesian-solver)
 
 <br>
 
-### Nose-Cone Aerodynamics
-Transonic flow around a tangent-ogive nose cone, examining surface loads and near-wall resolution.
+### 🌊 Navier–Stokes PINN
 
-*OpenFOAM · Gmsh · ParaView*  
-[Explore the project →](https://github.com/leonardomaddanu/nosecone-cfd)
+A neural network trained using the equations and boundary conditions of cavity flow. I compare its predictions with published reference results and examine where the approach still needs improvement.
+
+*PyTorch · Python · NumPy*
+
+[View project →](https://github.com/leonardomaddanu/pinn-lid-driven-cavity)
+
+<br>
+
+### 🌡️ Microchannel Heat Transfer
+
+A study of water cooling in a copper microchannel. The project brings together fluid flow, heat transfer and mesh refinement to examine cooling performance and numerical accuracy.
+
+*OpenFOAM · Python · ParaView*
+
+[View project →](https://github.com/leonardomaddanu/microchannel-cht)
+
+<br>
+
+### 🚀 Nose-Cone Aerodynamics
+
+A transonic flow study around a tangent-ogive nose cone. I explore mesh generation, surface loads and near-wall resolution, using the results to assess the simulation's behavior and limitations.
+
+*OpenFOAM · Gmsh · Python · ParaView*
+
+[View project →](https://github.com/leonardomaddanu/nosecone-cfd)
 
 <br>
 
 ---
 
-### Let's connect 📬
+## 📬 Let's connect
 
-[LinkedIn](https://www.linkedin.com/in/leonardo-maddanu-229564419/) · [Email](mailto:leonardo.maddanu@studio.unibo.it)
+I'm happy to exchange ideas about CFD, numerical methods and scientific machine learning.
+
+💼 [LinkedIn](https://www.linkedin.com/in/leonardo-maddanu-229564419/)  
+✉️ [leonardo.maddanu@studio.unibo.it](mailto:leonardo.maddanu@studio.unibo.it)
