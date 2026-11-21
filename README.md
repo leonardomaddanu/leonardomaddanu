@@ -9,7 +9,7 @@
 
 ---
 
-I'm a second-year **Aerospace Engineering undergraduate at the University of Bologna**, Forlì campus, and an **Aerodynamics & CFD Specialist at Alma Rocketry**, working towards the European Rocketry Challenge.
+I'm a second-year **Aerospace Engineering undergraduate at the University of Bologna**, and an **Aerodynamics & CFD Specialist at Alma Rocketry**, working towards the European Rocketry Challenge.
 
 My interests connect fluid dynamics, parallel numerical methods and scientific machine learning. I build and test simulation tools to understand where numerical models work, where they fall short and how computation can make them faster.
 
