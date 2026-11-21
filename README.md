@@ -1,22 +1,59 @@
-# 👋 Hi, I'm Leonardo
+# Hi, I'm Leonardo 👋
 
-🚀 **Aerospace Engineering student at the University of Bologna**  
-🌊 **Aerodynamics & CFD Specialist at Alma Rocketry — EuRoC**
+I'm an Aerospace Engineering student at the **University of Bologna** and an **Aerodynamics & CFD Specialist at Alma Rocketry**, working towards EuRoC.
 
-I work on fluid simulations, parallel numerical solvers and scientific machine learning. My goal is to build faster simulation tools grounded in physics.
+I explore fluid dynamics, parallel computing and scientific machine learning to build faster, physics-grounded simulation tools.
 
-## 🛠️ Selected projects
+<br>
 
-A few of my public projects — just part of what I'm working on.
+## Selected projects
 
-| Project | Focus | Tools |
-| :--- | :--- | :--- |
-| 🧠 **[Fourier Neural Operator](https://github.com/leonardomaddanu/fourier-neural-operator-pde)** | Learning Darcy-flow solutions and testing predictions on finer grids. | PyTorch, SciPy, NumPy |
-| ⚡ **[Parallel PDE Solver](https://github.com/leonardomaddanu/mpi-2d-cartesian-solver)** | Solving the heat equation across multiple processes and measuring parallel performance. | C++17, MPI, CMake |
-| 🌊 **[Navier–Stokes PINN](https://github.com/leonardomaddanu/pinn-lid-driven-cavity)** | Modeling cavity flow with physics-informed neural networks. | PyTorch, Python |
-| 🌡️ **[Microchannel Heat Transfer](https://github.com/leonardomaddanu/microchannel-cht)** | Studying liquid cooling, heat transfer and mesh convergence. | OpenFOAM, Python, ParaView |
-| 🚀 **[Nose-Cone Aerodynamics](https://github.com/leonardomaddanu/nosecone-cfd)** | Simulating transonic flow around a tangent-ogive nose cone. | OpenFOAM, Gmsh, ParaView |
+These are a few of my public projects, representing part of my ongoing work.
 
-## 📬 Let's connect
+<br>
+
+### Fourier Neural Operator
+Learning Darcy-flow solutions and testing predictions on finer grids.
+
+*PyTorch · SciPy · NumPy*  
+[Explore the project →](https://github.com/leonardomaddanu/fourier-neural-operator-pde)
+
+<br>
+
+### Parallel PDE Solver
+A heat-equation solver with MPI domain decomposition and parallel performance benchmarks.
+
+*C++17 · MPI · CMake*  
+[Explore the project →](https://github.com/leonardomaddanu/mpi-2d-cartesian-solver)
+
+<br>
+
+### Navier–Stokes PINN
+A physics-informed neural network for cavity flow, compared with published reference results.
+
+*PyTorch · Python · NumPy*  
+[Explore the project →](https://github.com/leonardomaddanu/pinn-lid-driven-cavity)
+
+<br>
+
+### Microchannel Heat Transfer
+A copper–water cooling study with conservation checks and mesh-convergence analysis.
+
+*OpenFOAM · Python · ParaView*  
+[Explore the project →](https://github.com/leonardomaddanu/microchannel-cht)
+
+<br>
+
+### Nose-Cone Aerodynamics
+Transonic flow around a tangent-ogive nose cone, examining surface loads and near-wall resolution.
+
+*OpenFOAM · Gmsh · ParaView*  
+[Explore the project →](https://github.com/leonardomaddanu/nosecone-cfd)
+
+<br>
+
+---
+
+### Let's connect 📬
 
 [LinkedIn](https://www.linkedin.com/in/leonardo-maddanu-229564419/) · [Email](mailto:leonardo.maddanu@studio.unibo.it)
