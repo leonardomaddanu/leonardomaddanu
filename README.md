@@ -26,7 +26,7 @@ Learning how fluid-flow solutions change across different permeability fields. T
 
 A parallel solver for the heat equation, built in C++. I use it to explore how a numerical problem can be shared across multiple processes while checking accuracy and performance.
 
-*C++17 · MPI · CMake*
+*C++ · MPI · CMake*
 
 [View project →](https://github.com/leonardomaddanu/mpi-2d-cartesian-solver)
 
